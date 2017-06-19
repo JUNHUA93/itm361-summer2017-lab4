@@ -41,3 +41,22 @@ img:hover {
   text-shadow: 1px 1px 1px #ccc;
   background-color: #f9f9f9;
 }
+
+th{
+  border: 2px solid yellow;
+  text-align: center; 
+  font-family: 'Lucida', monospace; 
+  font-size: 18px;
+  height: 50px;
+  background-color: #FFC0C0;
+  padding: 10px;
+}
+
+td{
+  border: 1px solid yellow;
+  font-family: 'Lucida', Monospace;
+  font-size: 16px;
+  text-align: center;
+  padding:10px;
+  background-color: #F5F5F5; 
+}
