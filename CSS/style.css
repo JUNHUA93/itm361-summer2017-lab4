@@ -1,5 +1,6 @@
 body{
-  font-family: Times New Roman, serif;
+ TEXT-ALIGN: center;
+font-family: Times New Roman, serif;
   font-size: 25px;
   background: #000000;
   background-attachment: fixed;
@@ -19,12 +20,6 @@ h1{
   font-style: normal;
   font-size: 56px;
 }
-.vertical {
-					height: 100px;
-					position: absolute;
-					top: 50%;/
-					margin-top: -50px;
-				}
 #img{
   border: 1px；
   max-width: 100%;
