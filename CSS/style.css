@@ -20,10 +20,9 @@ h1{
   font-size: 56px;
   text-shadow: 1px 1px 1px #aaa;
 }
-#img{
-  border: 1px solid #ddd;
-  max-width: 100%;
-  border-radius: 100%;
+img:hover {
+  box-shadow: 1px 1px 10px white;
+  margin-top: -10px;
 }
 
 .table{
