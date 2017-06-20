@@ -20,6 +20,11 @@ h1{
   font-size: 56px;
   text-shadow: 1px 1px 1px #aaa;
 }
+#img{
+  border: 1px；
+  max-width: 100%;
+  border-radius: 100%;
+}
 .table{
   font-family:Times New Roman, serif;
   font-size: 18px;
