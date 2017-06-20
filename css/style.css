@@ -15,12 +15,10 @@ body{
 h1{
   font-family: 'Monofett', cursive;
   color: #f9f9f9;
-  font-weight: normal;
   width: 130px;
   font-style: normal; 
-	margin-left: auto;
+margin-left: auto;
   margin-right: auto;
-  font-style: normal;
   font-size: 56px;
   text-shadow: 1px 1px 1px #aaa;
 }
