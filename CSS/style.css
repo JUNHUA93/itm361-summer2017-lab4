@@ -1,10 +1,10 @@
 body{
-font-family: Times New Roman, serif;
+  font-family: Times New Roman, serif;
   font-size: 25px;
-  background: #000000;
+  background: #f2f2f2;
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-position:50% 50%;
+  background-position: center;
   background-size: cover;
   width: 750px;
   padding: 40px;
@@ -14,10 +14,11 @@ font-family: Times New Roman, serif;
 }
 h1{
   font-family: 'Monofett', cursive;
-  color: black;
+  color: #f9f9f9;
   font-weight: normal;
   font-style: normal;
   font-size: 56px;
+  text-shadow: 1px 1px 1px #aaa;
 }
 #img{
   border: 1px；
